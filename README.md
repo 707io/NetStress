@@ -34,10 +34,31 @@ No external dependencies are required.
 
 ---
 
+## 💾 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/707io/NetStress.git
+```
+2. Navigate to the project folder:
+```bash
+cd NetStress
+```
+3. Ensure you have Python 3 installed:
+```bash
+python3 --version
+```
+4. Run the script:
+```bash
+python3 netstress.py
+```
+
+---
+
 ## 🚀 Usage
 
 ```bash
-python netstress.py
+python3 netstress.py
 ```
 
 Choose:
